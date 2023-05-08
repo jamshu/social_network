@@ -26,8 +26,8 @@ $ cd social-network
 ```
 2. Build and run the Docker containers:
 ```bash 
-$ docker-compose build
-$ docker-compose up
+$ docker compose build
+$ docker compose up
 ```
 The API should now be accessible at http://localhost:8000.
 
