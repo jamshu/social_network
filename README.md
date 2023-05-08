@@ -21,8 +21,8 @@ This project is a simple social networking application API built with Django and
 1. Clone the repository:
 
 ```bash 
-$ git clone https://github.com/yourusername/social-networking-api.git
-$ cd social-networking-api
+$ git clone git@github.com:jamshu/social_network.git
+$ cd social-network
 ```
 2. Build and run the Docker containers:
 ```bash 
